@@ -17,12 +17,6 @@ Aplicar el principio fundamental de la geometría constructiva: obtener figuras 
 - Arrastrar la figura seleccionada en 2D.
 - Girar y acercar la vista en 3D.
 
-## Figuras disponibles
-
-| Modo | Figuras |
-| 2D | Rectángulo, círculo, elipse y polígono regular |
-| 3D | Cubo, prisma rectangular, esfera, cilindro, cono y toro |
-
 ## Tecnologías
 
 - Java.
